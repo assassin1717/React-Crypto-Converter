@@ -1,4 +1,4 @@
-# Crypto Currencies Converter
+# React - Crypto Converter
 
 This is a simple crypto currency converter using data from coin gecko public REST APIS.
 
